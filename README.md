@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabriellwrnc
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning how to be a Front-End Web Developer
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Web
 - 📫 How to reach me gabriel.jamrewav@gmail.com
 
 <!---
